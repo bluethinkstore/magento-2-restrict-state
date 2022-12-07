@@ -21,15 +21,15 @@
 ## Preview Before
 
 - Address Book State/Provinces before setting saved
-![Address Book State/Provinces before setting saved](./docs/address_book_before.png)
+![Address Book State/Provinces before setting saved](docs/address_book_before.png)
 
 - Checkout Page State/Provinces before setting saved
-![Checkout Page State/Provinces before setting saved](./docs/checkout_before.png)
+![Checkout Page State/Provinces before setting saved](docs/checkout_before.png)
 
 ## Preview After
 
 - Address Book State/Provinces after setting saved
-![Address Book State/Provinces after setting saved](./docs/address_book_after.png)
+![Address Book State/Provinces after setting saved](docs/address_book_after.png)
 
 - Checkout Page State/Provinces after setting saved
 ![Checkout Page State/Provinces after setting saved](./docs/checkout_after.png)
