@@ -2,7 +2,7 @@
 
 ## Main Functionalities
 
-- This module is used to remove states/provinces of any countires from the Region field.
+- This module is used to remove states/provinces of any countires from the Region field on checkout and customer account section.
 
 ### Type 1: Zip file
 
