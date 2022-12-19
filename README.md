@@ -6,6 +6,7 @@
 
 ### Type 1: Zip file
 
+- Download .zip file and extract to `app/code/Bluethinkinc` folder. If Bluethinkinc folder does not exist then create it in your `app/code` folder.
 - Enable the module by running `php bin/magento module:enable Bluethinkinc_RestrictState`
 - Apply database updates by running `php bin/magento setup:upgrade`
 - Compilation by running `php bin/magento setup:di:compile`
