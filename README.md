@@ -6,7 +6,7 @@
 
 ### Type 1: Zip file
 
-- Enable the module by running `php bin/magento module:enable Bluethink_RestrictState`
+- Enable the module by running `php bin/magento module:enable Bluethinkinc_RestrictState`
 - Apply database updates by running `php bin/magento setup:upgrade`
 - Compilation by running `php bin/magento setup:di:compile`
 - Static content deploy by running `php bin/magento setup:static-content:deploy`
