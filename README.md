@@ -13,6 +13,15 @@
 - Static content deploy by running `php bin/magento setup:static-content:deploy`
 - Flush the cache by running `php bin/magento cache:flush`
 
+### Type 2: Composer
+
+- Run command `composer require bluethinkinc/restrictstate` in your project root folder.
+- Enable the module by running `php bin/magento module:enable Bluethinkinc_RestrictState`
+- Apply database updates by running `php bin/magento setup:upgrade`
+- Compilation by running `php bin/magento setup:di:compile`
+- Static content deploy by running `php bin/magento setup:static-content:deploy`
+- Flush the cache by running `php bin/magento cache:flush`
+
 ## Configuration
 
 - For setting to remove states/provinces of any countires from the Region field. Go To (Magento Admin -> Stores -> Configuration -> General -> General -> State Restriction)
