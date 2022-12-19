@@ -1,5 +1,5 @@
 {
-    "name": "bluethink/magento-2-restrict-state",
+    "name": "bluethinkinc/restrictstate",
     "description": "Bluethink Magento 2 restrict state module",
     "type": "magento2-module",
     "minimum-stability": "dev",
